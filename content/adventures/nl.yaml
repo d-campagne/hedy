@@ -27,6 +27,17 @@ adventures:
                     Gebruik minstens een `{ask}` en een `{echo}` commando.
                     Je mag zelf een onderwerp kiezen.
                     Geen inspiratie? Kies dan een van onze onderwerpen: naar de bioscoop, een sportwedstrijd of een dagje naar de dierentuin.
+
+                answer_code: |
+                    ```
+                    {print} Hallo kinderen! Vandaag gaan wij naar de dierentuin! 
+                    {ask} Welk dier gaan wij als eerst bezoeken? 
+                    {echo} Laten wij gaan naar de  
+                    {print} Omdat het heel warm is, laten we een ijsje gaan halen! 
+                    {ask} Welke smaak wil jij? 
+                    {echo} Goede keuze! Ik zal ook die smaak kiezen.
+                    ```
+
             2:
                 story_text: |
                     In level 2 kun je je verhaal leuker maken. De naam van je hoofdpersoon kan nu overal in de zin staan.
